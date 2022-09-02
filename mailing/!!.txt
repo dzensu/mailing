@@ -1,0 +1,12 @@
+SECRET_KEY=Ключ джанго
+ALLOWED_HOSTS=127.0.0.1:8000
+DEBUG=Значение (True\False)
+
+API_TOKEN=Ваш токен
+
+DB_ENGINE=django.db.backends.postgresql
+DB_NAME=<имя базы данных postgres>
+POSTGRES_USER=<имя пользователя>
+POSTGRES_PASSWORD=<пароль для базы данных>
+DB_HOST=db
+DB_PORT=543
